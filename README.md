@@ -5,9 +5,9 @@
 Two days ago I started learning mongodb and with watching videos I was taking some notes to remember the commands
 then I said to myself "hey why don't I share this notes on Github?"
 
-So, why not? [Here are some notes and tips to get started with mongodb](./mongo_commands.md)
+Why not? [Here are some notes and tips to get started with mongodb](./mongo_commands.md)
 
-Btw if you want to watch the full tutorial on youtube [here is the link](https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA&pp=iAQB)
+Btw if you want to watch the full tutorial on youtube from [Net Ninja Channel](https://www.youtube.com/@NetNinja), [here is the link](https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA&pp=iAQB)
 
 ___
 
