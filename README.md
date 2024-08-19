@@ -11,9 +11,9 @@ Btw if you want to watch the full tutorial on youtube [here is the link](https:/
 
 ___
 
-To use [API](./api/) create a mongodb database and name it "mydb"  
-also add a collection with "docs" name
-
-You can import some examples documents to "docs" collection using to [JSON file](./mongodb%20collection/mydb.docs.json) in [mongodb collection folder](./mongodb%20collection/)
-
-And if you're using Postman you can import [this JSON file](./postman/mydb.postman_collection.json) to test API in [postman folder](./postman/)
+To use [API](./api/):
+- create a mongodb database and name it "mydb"
+- add a collection with "docs" name
+- use ` npm install ` or ` npm i ` command to install api dependencies
+- you can import some examples documents to "docs" collection using to [JSON file](./mongodb%20collection/mydb.docs.json) in [mongodb collection folder](./mongodb%20collection/)
+- if you're using Postman you can import [this JSON file](./postman/mydb.postman_collection.json) to test API in [postman folder](./postman/)
