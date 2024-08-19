@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "66c1dc9e2ff9fd44ea17b38e"
+  },
+  "key_1": "value_1",
+  "key_2": "value_2",
+  "key_3": []
+},
+{
+  "_id": {
+    "$oid": "66c1dc9e2ff9fd44ea17b38f"
+  },
+  "key_1": "value_3",
+  "key_2": "value_4",
+  "key_3": [
+    "value_5"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c2093c1e0c2ff3d5759556"
+  },
+  "key_1": "value_6",
+  "key_2": "value_7",
+  "key_3": [
+    "value_8",
+    "value_9"
+  ]
+}]
