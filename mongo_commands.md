@@ -4,7 +4,7 @@
 
 <img src="./img/mongo-db.png" width="250" height="250">
 
-[watch the full tutorial from **Net Ninja** channel](https://youtu.be/084rmLU1UgA?si=f345vqsA0jeZ78ZT)
+[watch the full tutorial from **Net Ninja** channel](https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA&pp=iAQB)
 
 > Please note that the given parameters should be in [**JSON**](https://www.json.org/json-en.html) format
 
@@ -259,4 +259,4 @@ Parameters:
 Parameters: 
 1. Object: must contains a document field with it's value
 
-[watch the full tutorial from **Net Ninja** channel](https://youtu.be/084rmLU1UgA?si=f345vqsA0jeZ78ZT)
+[watch the full tutorial from **Net Ninja** channel](https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA&pp=iAQB)
